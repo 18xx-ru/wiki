@@ -1,0 +1,8 @@
+baseURL: 'https://vandamm.github.io/18xx-book/'
+title: '18xx по-русски'
+theme: 'book'
+
+defaultContentLanguage: 'ru'
+languageCode: 'ru-ru'
+
+BookRepo: https://github.com/vandamm/18xx-book
