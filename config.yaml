@@ -6,3 +6,5 @@ defaultContentLanguage: 'ru'
 languageCode: 'ru-ru'
 
 BookRepo: https://github.com/vandamm/18xx-book
+
+enableGitInfo: true
