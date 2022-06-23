@@ -4,6 +4,8 @@ title: 1861
 
 # 1861
 
+**Автор:** Ian D. Wilson
+
 ## Ссылки
 
 * [BoardGameGeek](https://boardgamegeek.com/boardgame/292187/18611867-railways-russiacanada)
