@@ -2,7 +2,7 @@
 title: 18DO
 ---
 
-# 18DO
+# 18DO: Dortmund
 
 **Авторы**: Wolfram Janich, Michael Scharf
 
