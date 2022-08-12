@@ -8,10 +8,11 @@ title: 1848
 
 ## Ссылки
 
-* [BoardGameGeek](https://boardgamegeek.com/boardgame/292187/18611867-railways-russiacanada)
-* [Tesera](https://tesera.ru/game/1848/)
+* [BoardGameGeek](https://boardgamegeek.com/boardgame/32424/1848-australia)
+* [Tesera](https://tesera.ru/game/1848-australia/)
+* [GMT (издатель)](https://www.gmtgames.com/p-768-1848-australia.aspx)
 
 ## Файлы
 
-* [Правила (EN)](https://boardgamegeek.com/filepage/212807/18611867-rulebook)
+* [Правила (EN)](https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/1848/1848-RULES-FINAL.pdf)
 * [Правила (RU)](1848-rules-ru.pdf)
