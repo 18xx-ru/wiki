@@ -1,10 +1,10 @@
-baseURL: 'https://vandamm.github.io/18xx-book/'
+baseURL: 'https://18xx-ru.github.io/'
 title: '18xx по-русски'
 theme: 'book'
 
 defaultContentLanguage: 'ru'
 languageCode: 'ru-ru'
 
-BookRepo: https://github.com/vandamm/18xx-book
+BookRepo: https://github.com/18xx-ru/18xx-ru.github.io
 
 enableGitInfo: true
