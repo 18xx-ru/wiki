@@ -2,7 +2,7 @@
 title: 1861
 ---
 
-# 1861
+# 1861: Railways of Russian Empire
 
 **Автор:** Ian D. Wilson
 
@@ -10,6 +10,9 @@ title: 1861
 
 * [BoardGameGeek](https://boardgamegeek.com/boardgame/292187/18611867-railways-russiacanada)
 * [Tesera](https://tesera.ru/game/1861-1867/)
+
+## Файлы
+
 * [Правила (EN)](https://boardgamegeek.com/filepage/212807/18611867-rulebook)
 * [Правила (RU)](1861-1867-rules-ru-0.9-20210615.pdf)
 
