@@ -15,4 +15,5 @@ title: 1848
 ## Файлы
 
 * [Правила (EN)](https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/1848/1848-RULES-FINAL.pdf)
-* [Правила (RU)](1848-rules-ru.pdf)
+* [Правила (RU)](1848-rules-ru-v1.pdf)
+* [Краткие правила (RU)](1848-player-aid-ru.pdf)
