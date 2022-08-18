@@ -5,6 +5,7 @@ title: 1867
 # 1867: Railways of Canada
 
 **Автор:** Ian D. Wilson
+**Год выпуска:** 2017, 2020
 
 ## Ссылки
 

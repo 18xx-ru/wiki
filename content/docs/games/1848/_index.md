@@ -5,6 +5,7 @@ title: 1848
 # 1848: Australia
 
 **Авторы:** Helmut Ohley, Leonhard Orgler
+**Год выпуска:** 2007, 2022
 
 ## Ссылки
 

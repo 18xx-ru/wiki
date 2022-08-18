@@ -5,6 +5,7 @@ title: 1861
 # 1861: Railways of Russian Empire
 
 **Автор:** Ian D. Wilson
+**Год выпуска:** 2006, 2020
 
 ## Ссылки
 

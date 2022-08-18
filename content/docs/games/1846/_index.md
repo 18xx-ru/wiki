@@ -4,7 +4,8 @@ title: 1846
 
 # 1846: The race for the Midwest
 
-**Авторы:** Tom Lehmann
+**Автор:** Tom Lehmann
+**Год выпуска:** 2016, 2021
 
 ## Ссылки
 
