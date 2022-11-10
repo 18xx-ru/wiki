@@ -9,24 +9,23 @@ title: 1846
 
 ## Ссылки
 
-* [BoardGameGeek](https://boardgamegeek.com/boardgame/17405/1846-race-midwest)
-* [Tesera](https://tesera.ru/game/1846-the-race-for-the-midwest/)
-* [GMT (издатель)](https://www.gmtgames.com/p-847-1846-the-race-to-the-midwest-1846-1935-2nd-printing.aspx)
+- [BoardGameGeek](https://boardgamegeek.com/boardgame/17405/1846-race-midwest)
+- [Tesera](https://tesera.ru/game/1846-the-race-for-the-midwest/)
+- [GMT (издатель)](https://www.gmtgames.com/p-847-1846-the-race-to-the-midwest-1846-1935-2nd-printing.aspx)
 
 ## Файлы
 
-* [Правила (EN)](https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/1846/1846-RULES-2021.pdf)
-* [Правила на двоих (EN)](https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/1846/1846_2P_VARIANT-FINAL.pdf)
-* [Обзор правил и обучение (RU)](1846-rules-overview-v1.03.pdf)
-
+- [Правила (EN)](https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/1846/1846-RULES-2021.pdf)
+- [Правила на двоих (EN)](https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/1846/1846_2P_VARIANT-FINAL.pdf)
+- [Обзор правил и обучение (RU)](1846-rules-overview-v1.03.pdf)
 
 ## Неофициальный вариант для двоих игроков
 
 В этом варианте игра более контролируемая. У игроков много денег, так что
 на старте хватает запустить сразу по 2 компании, получая синергию между ними.
 
-
 А дальше возможны два варианта развития партии:
+
 1. каждый играет отдельно и могут даже на карте особо не пересекаться
 2. идёт активная станционная война, так как можно эффективно блокировать города
 
