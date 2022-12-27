@@ -10,7 +10,6 @@ title: 18GB
 ## Ссылки
 
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/245532/18gb-railways-great-britain)
-- [Tesera](https://tesera.ru/game/18gb/)
 
 ## Краткая справка
 
