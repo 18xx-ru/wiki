@@ -12,6 +12,10 @@ title: 18CZ
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/163841/18cz)
 - [Tesera](https://tesera.ru/game/18cz/)
 
+## Файлы
+
+- [Правила (EN)](https://boardgamegeek.com/filepage/154529/18cz-rulebook-english)
+
 ## Особенности
 
 ### Процесс

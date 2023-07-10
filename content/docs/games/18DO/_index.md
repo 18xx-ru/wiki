@@ -12,6 +12,10 @@ title: 18DO
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/238957/18do-dortmund)
 - [Tesera](https://tesera.ru/game/18do/)
 
+## Файлы
+
+- [Правила (EN)](https://boardgamegeek.com/filepage/241152/18do-rules-eng-final-graphic)
+
 ## Общее
 
 Более-менее классическая 18хх, в которую добавили еще одну экономическую игру:

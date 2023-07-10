@@ -11,6 +11,10 @@ title: 18GB
 
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/245532/18gb-railways-great-britain)
 
+## Файлы
+
+- [Правила (EN)](https://www.dropbox.com/s/uilbrqw8qyo3ves/18GB%20Rules.pdf?dl=0)
+
 ## Краткая справка
 
 Правила имеют много общего с 1860.
