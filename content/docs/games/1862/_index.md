@@ -16,5 +16,5 @@ title: 1862
 ## Файлы
 
 - [Правила (EN)](https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/1862/1862_TRAIN_RULES-Final.pdf)
-- [Правила (RU)](1862-rules-ru-v2.pdf)
+- [Правила (RU)](1862-rules-ru-v3.pdf)
 - [Правила соло игры (RU)](1862-rules-solo-ru-v3.pdf)
