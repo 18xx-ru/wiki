@@ -14,6 +14,7 @@ title: 18CZ
 
 ## Файлы
 
+- [Правила (RU)](18CZ-rules-ru-v1.pdf)
 - [Правила (EN)](https://boardgamegeek.com/filepage/154529/18cz-rulebook-english)
 
 ## Особенности
