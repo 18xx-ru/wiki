@@ -1,10 +1,13 @@
-baseURL: 'https://18xx-ru.github.io/'
+baseURL: 'https://wiki.18xx.site/'
 title: '18xx на русском'
 theme: 'book'
 
 defaultContentLanguage: 'ru'
 languageCode: 'ru-ru'
 
-BookRepo: https://github.com/18xx-ru/18xx-ru.github.io
-
 enableGitInfo: true
+
+params:
+  BookTheme: 'auto'
+  BookRepo: 'https://github.com/18xx-ru/18xx-ru.github.io'
+  BookComments: false
