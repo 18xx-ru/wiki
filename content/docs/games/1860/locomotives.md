@@ -1,5 +1,5 @@
 ---
-title: 1860: Locomotives of the Isle of Wight
+title: '1860: Locomotives of the Isle of Wight'
 ---
 
 # 1860: Locomotives of the Isle of Wight
