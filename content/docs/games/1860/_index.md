@@ -18,4 +18,4 @@ title: 1860
 
 ## Дополнения
 
-- [Locomotives of the Isle of Wight](locomotives.md)
+- [Locomotives of the Isle of Wight](./locomotives)
