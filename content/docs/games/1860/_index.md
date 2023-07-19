@@ -14,6 +14,7 @@ title: 1860
 
 ## Файлы
 
+- [Правила (RU)](1860-rules-ru-v1.pdf)
 - [Правила (EN)](https://boardgamegeek.com/filepage/238952/third-edition-rules)
 
 ## Дополнения
