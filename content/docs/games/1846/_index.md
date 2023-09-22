@@ -17,7 +17,7 @@ title: 1846
 
 - [Правила (EN)](https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/1846/1846-RULES-2021.pdf)
 - [Правила на двоих (EN)](https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/1846/1846_2P_VARIANT-FINAL.pdf)
-- [Обзор правил и обучение (RU)](1846-rules-overview-v1.03.pdf)
+- [Краткие правила и обучение (RU)](1846-rules-overview-v1.03.pdf)
 
 ## Неофициальный вариант для двоих игроков
 
