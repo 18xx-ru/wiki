@@ -4,13 +4,13 @@ title: 1860
 
 # 1860: Railways on the Isle of Wight
 
-**Авторы**: Mike Hutton
+**Автор**: Mike Hutton
 **Год выпуска:** 2004
 
 ## Ссылки
 
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/12750/1860-railways-isle-wight)
-- [Tesera](https://tesera.ru/game/1860/)
+- [Tesera](https://tesera.ru/game/railways-on-the-isle-of-wight/)
 
 ## Файлы
 
