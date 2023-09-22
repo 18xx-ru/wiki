@@ -1,10 +1,10 @@
 ---
-title: '1860: Locomotives of the Isle of Wight'
+title: '1860: Locomotives'
 ---
 
 # 1860: Locomotives of the Isle of Wight
 
-**Дополнение к [1860](_index.md)**
+**Дополнение к [1860](../)**
 
 **Автор**: Mike Hutton
 **Год выпуска:** 2015

@@ -6,8 +6,9 @@ defaultContentLanguage: 'ru'
 languageCode: 'ru-ru'
 
 enableGitInfo: true
+disqusShortname: '18xx-ru'
 
 params:
   BookTheme: 'auto'
   BookRepo: 'https://github.com/18xx-ru/18xx-ru.github.io'
-  BookComments: false
+  BookComments: true
