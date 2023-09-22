@@ -15,7 +15,7 @@ title: 18GB
 
 - [Правила (EN)](https://www.dropbox.com/s/uilbrqw8qyo3ves/18GB%20Rules.pdf?dl=0)
 
-## Краткая справка
+## Краткие правила
 
 Правила имеют много общего с 1860.
 
