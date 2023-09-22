@@ -4,8 +4,8 @@ title: 18Mag
 
 # 18Mag: Hungarian Railway History
 
-**Автор**: Leonhard Orgler
-**Год выпуска:** 2021
+* **Автор**: Leonhard Orgler
+* **Год выпуска:** 2021
 
 ## Ссылки
 

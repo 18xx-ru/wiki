@@ -4,8 +4,8 @@ title: 18GB
 
 # 18GB: The Railways of Great Britain
 
-**Авторы**: Dave Berry
-**Год выпуска:** 2018, 2023
+* **Авторы**: Dave Berry
+* **Год выпуска:** 2018, 2023
 
 ## Ссылки
 

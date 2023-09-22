@@ -4,8 +4,8 @@ title: 1840
 
 # 1840: Vienna Tramways
 
-**Автор**: Leonhard Orgler
-**Год выпуска:** 2020
+* **Автор**: Leonhard Orgler
+* **Год выпуска:** 2020
 
 ## Ссылки
 

@@ -4,8 +4,8 @@ title: 18CZ
 
 # 18CZ: The railway comes to Czech Lands
 
-**Автор**: Leonhard Orgler
-**Год выпуска:** 2017
+* **Автор**: Leonhard Orgler
+* **Год выпуска:** 2017
 
 ## Ссылки
 

@@ -4,8 +4,8 @@ title: 1860
 
 # 1860: Railways on the Isle of Wight
 
-**Автор**: Mike Hutton
-**Год выпуска:** 2004
+* **Автор**: Mike Hutton
+* **Год выпуска:** 2004
 
 ## Ссылки
 

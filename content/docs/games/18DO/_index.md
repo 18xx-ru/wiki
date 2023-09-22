@@ -4,8 +4,8 @@ title: 18DO
 
 # 18DO: Dortmund
 
-**Авторы**: Wolfram Janich, Michael Scharf
-**Год выпуска:** 2020
+* **Авторы**: Wolfram Janich, Michael Scharf
+* **Год выпуска:** 2020
 
 ## Ссылки
 

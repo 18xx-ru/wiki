@@ -4,8 +4,8 @@ title: 1849
 
 # 1849: The Game of Sicilian Railways
 
-**Авторы**: Chris Lawson, Federico Vellani
-**Год выпуска:** 1998
+* **Авторы**: Chris Lawson, Federico Vellani
+* **Год выпуска:** 1998
 
 ## Ссылки
 

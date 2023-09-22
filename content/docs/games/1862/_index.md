@@ -4,8 +4,8 @@ title: 1862
 
 # 1862: Railway mania in Eastern Counties
 
-**Автор:** Mike Hutton
-**Год выпуска:** 1990, 2013
+* **Автор:** Mike Hutton
+* **Год выпуска:** 1990, 2013
 
 ## Ссылки
 

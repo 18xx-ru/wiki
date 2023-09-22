@@ -4,8 +4,8 @@ title: 1824
 
 # 1824: Austrian-Hungarian Railway
 
-**Авторы**: Leonhard Orgler, Helmut Ohley
-**Год выпуска:** 2020
+* **Авторы**: Leonhard Orgler, Helmut Ohley
+* **Год выпуска:** 2020
 
 ## Ссылки
 
