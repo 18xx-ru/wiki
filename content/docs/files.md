@@ -40,6 +40,10 @@ title: Файлы
 - [Правила 1862](../games/1862/1862-rules-ru-v3.pdf)
 - [Правила соло игры 1862)](../games/1862/1862-rules-solo-ru-v3.pdf)
 
+## 1893: Cologne
+
+- [Краткие правила 1893](../games/1893/1893-rules-summary-RU.pdf)
+
 ## 18CZ
 
 - [Правила 18CZ](../games/18CZ/18CZ-rules-rus-v1.pdf)
