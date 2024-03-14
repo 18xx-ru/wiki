@@ -13,7 +13,7 @@ title: 1817
 
 ## Файлы
 
-- [Краткие правила + Volatility (RUS)](./1817-and-volatility-rules-summary-ru)
+- [Краткие правила + Volatility (RUS)](./1817-and-volatility-rules-summary-ru.pdf)
 
 ## Дополнения
 
